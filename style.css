@@ -1,0 +1,198 @@
+h1{
+font-family: 'Yeseva One', cursive;
+font-size: 75px;
+color: #fcc27e;
+
+}
+
+.mini_logo{
+font-family: 'Yeseva One', cursive;
+text-decoration: none;
+font-size: 20px;
+color: white;
+}
+
+.normal_logo{
+    font-family: 'Yeseva One', cursive;
+    text-decoration: none;
+    font-size: 50px;
+    color: white;
+    }
+
+h2{
+font-family: 'Open Sans', sans-serif;
+font-weight: bold;
+color: #cc99ff;
+}
+
+a{
+text-decoration: none;
+}
+
+.navbar{
+background-color: #cc99ff;
+text-decoration: none;
+}
+
+.nav-link{
+font-family: 'Open Sans', sans-serif;
+text-decoration: none;
+color: white;
+}
+
+.btn_navbar{
+background-color: #f6f6f6;
+text-decoration: none;
+border: none;
+font-family: 'Open Sans', sans-serif;
+color:#cc99ff;
+}
+
+h7{
+font-weight: bold;
+color: #383838;
+}
+
+body{
+font-family: 'Open Sans', sans-serif;
+color: #adacad;
+}
+
+.footer{
+    background-color: #cc99ff;
+}
+
+.text_footer{
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+}
+
+.textc_footer{
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    font-size: small;
+}
+
+.col-size1 {
+width: 100%;
+padding: 100% 0 0 0;
+background: #fcc27e;
+}
+
+.col-size2 {
+width: 100%;
+padding: 100% 0 0 0;
+background: #cc99ff;
+}  
+
+.col-size3 {
+width: 100%;
+padding: 100% 0 0 0;
+background: #f6f6f6;
+}
+
+.col-size4 {
+width: 100%;
+padding: 100% 0 0 0;
+background: #adacad;
+}
+
+.col-size5 {
+width: 100%;
+padding: 100% 0 0 0;
+background: #383838;
+}
+
+.btnwarningprimary {
+text-decoration: none;
+border: none;
+padding: 10px;
+font-size: 1em;
+font-weight: bold;
+color: #FFFFFF;
+background-color: #cc99ff;
+border-radius: 5px;
+-webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+}
+
+
+.btnwarningprimary:hover {
+background-color: #bf80fe;
+}
+
+.btnwarning {
+text-decoration: none;
+border: none;
+padding: 10px;
+font-size: 1em;
+font-weight: bold;
+color: #FFFFFF;
+background-color: #fcc27e;
+border-radius: 5px;
+-webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+}
+
+
+.btnwarning:hover {
+background-color: #f7b567;
+}
+
+.btnwarning2 {
+    text-decoration: none;
+    border: none;
+    padding: 10px;
+    font-size: 1em;
+    font-weight: bold;
+    color: #FFFFFF;
+    background-color: #fc7ebf;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    }
+    
+    
+    .btnwarning2:hover {
+    background-color: #f868b2;
+    }
+
+    .btnwarning3 {
+        text-decoration: none;
+        border: none;
+        padding: 10px;
+        font-size: 1em;
+        font-weight: bold;
+        color: #FFFFFF;
+        background-color: #7efc9f;
+        border-radius: 5px;
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        }
+            
+            
+.btnwarning3:hover {
+background-color: #64f48a;
+}
+
+.btnwarning4 {
+    text-decoration: none;
+    border: none;
+    padding: 10px;
+    font-size: 1em;
+    font-weight: bold;
+    color: #FFFFFF;
+    background-color: #7ebcfc;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    }
+    
+    
+.btnwarning4:hover {
+background-color: #68b1fc;
+}
+
+.border_forms{
+    width: 20%;
+}
